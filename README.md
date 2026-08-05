@@ -1,5 +1,7 @@
 # Thinking Tester Contact List - Automated Test Suite
 
+This project was developed with assistance from Claude using the Manual_QA_LLM_MCP. The Manual_QA_LLM_MCP itself was also created with Claude. GitHub Copilot in Visual Studio Code was used to assist with code generation and editing.
+
 A comprehensive Playwright-based automated test suite for the Thinking Tester Contact List practice application. This suite includes UI tests and API tests following ISTQB-aligned test design principles.
 
 ## Project Structure
