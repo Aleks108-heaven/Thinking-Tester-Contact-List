@@ -1,7 +1,5 @@
 # Dependencies
 node_modules/
-package-lock.json
-yarn.lock
 
 # Playwright
 .auth/
@@ -23,15 +21,3 @@ junit-results.xml
 
 # Environment
 .env
-.env.local
-.env.*.local
-
-# Build/dist
-dist/
-build/
-
-# Playwright
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-/playwright/.auth/
